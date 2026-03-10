@@ -17,10 +17,11 @@ function App() {
             <p className="challenge-label">THE VISUAL CHALLENGE</p>
             
             <h2 className="challenge-title">
-              FRAGMENTED CARE <br />
+              FRAGMEN <br />
+              TED CARE <br />
               <span>IN A GLOBAL</span> <br />
               CONTEXT.
-            </h2>
+          </h2>
           </div>
 
           {/* RIGHT SIDE */}
